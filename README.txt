@@ -15,5 +15,5 @@ utilizando a fórmula de bhaskara:
 
     Δ = B² - 4 A C
               ___
-    x = -B ± √‾Δ
+    x = -B ± √ Δ
         ‾‾‾2‾A‾‾‾
