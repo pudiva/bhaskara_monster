@@ -1,6 +1,6 @@
 .POSIX:
 .PHONY: all clean
-bhaskara_monster: bhaskara_monster.o
+all: bhaskara_monster
 clean:
 	rm -f bhaskara_monster bhaskara_monster.o
-all: bhaskara_monster
+bhaskara_monster: bhaskara_monster.o
